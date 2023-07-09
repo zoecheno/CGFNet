@@ -1,2 +1,2 @@
 # CGFNet
-This repository hosts an implementation of CGFNet.
+This repository hosts the implementation of CGFNet.
